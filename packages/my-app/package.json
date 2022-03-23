@@ -1,18 +1,18 @@
 {
   "name": "@jonsoku/app",
-  "version": "1.1.21",
+  "version": "1.1.22",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "dev": "next dev",
-    "build": "next build", 
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
-    "@jonsoku/hooks": "^1.1.21",
+    "@jonsoku/hooks": "^1.1.22",
     "next": "12.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
