@@ -1,6 +1,6 @@
 {
   "name": "@jonsoku/hooks",
-  "version": "1.1.5",
+  "version": "1.1.2",
   "description": "Made with create-react-library",
   "author": "",
   "license": "MIT",
@@ -12,7 +12,8 @@
     "node": ">=10"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
@@ -34,5 +35,5 @@
     "react-dom": "17.0.2",
     "react-scripts": "^5.0.0"
   },
-  "gitHead": "ec0b0bb442e5106941161496f43b8ef7db7a2af8"
+  "gitHead": "2e30c964cfc15e0c805d4329298c0b489698de4b"
 }
