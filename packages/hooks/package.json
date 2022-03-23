@@ -4,7 +4,6 @@
   "description": "Made with create-react-library",
   "author": "",
   "license": "MIT",
-  "repository": "/@jonsoku/hooks",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
@@ -35,5 +34,5 @@
     "react-dom": "17.0.2",
     "react-scripts": "^5.0.0"
   },
-  "gitHead": "edb44415a2aefb4b6ff3b48805e74a8ff9f132d9"
+  "gitHead": "d1f5d8b36933a91929be164f8bb3e6b9ff1b5e9b"
 }
