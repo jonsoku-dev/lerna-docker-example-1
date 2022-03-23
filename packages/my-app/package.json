@@ -1,6 +1,10 @@
 {
   "name": "@jonsoku/app",
   "version": "1.1.2",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -13,5 +17,5 @@
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
-  "gitHead": "8a3802ce38e519a41668f120bf5adc7a41bfd418"
+  "gitHead": "2e30c964cfc15e0c805d4329298c0b489698de4b"
 }

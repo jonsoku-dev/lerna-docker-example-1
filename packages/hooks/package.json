@@ -11,6 +11,10 @@
   "engines": {
     "node": ">=10"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "dev": "microbundle-crl watch --no-compress --format modern,cjs",
@@ -31,5 +35,5 @@
     "react-dom": "17.0.2",
     "react-scripts": "^5.0.0"
   },
-  "gitHead": "8a3802ce38e519a41668f120bf5adc7a41bfd418"
+  "gitHead": "2e30c964cfc15e0c805d4329298c0b489698de4b"
 }
