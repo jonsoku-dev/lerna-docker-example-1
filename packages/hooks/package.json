@@ -10,6 +10,7 @@
   "engines": {
     "node": ">=10"
   },
+  "repository": "https://github.com/jonsoku2/lerna-docker-example-1",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
@@ -34,5 +35,5 @@
     "react-dom": "17.0.2",
     "react-scripts": "^5.0.0"
   },
-  "gitHead": "9ada91f9dee3b45f47f354e9065ffd0c1a22b487"
+  "gitHead": "be79ed79ef817dfc1a4c2f46ee19f08555931df1"
 }
