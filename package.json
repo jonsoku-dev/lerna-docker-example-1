@@ -37,14 +37,11 @@
     "typescript": "4.6.2"
   },
   "scripts": {
-    "dev": "lerna run dev",
+    "dev": "lerna run dev --scope={@jonsoku/hooks, @jonsoku/app}",
     "build": "lerna run build",
-    "start": "lerna run start",
+    "new-version": "lerna version --conventional-commits --yes",
+    "diff": "lerna diff",
     "lerna-dockerize": "lerna-dockerize"
-  },
-  "dependencies": {
-    "@jonsoku/app": "file:packages/my-app",
-    "@jonsoku/hooks": "file:packages/hooks"
   }
 }
  

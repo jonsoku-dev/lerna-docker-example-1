@@ -1374,21 +1374,6 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@jonsoku/app@file:packages/my-app":
-  version "0.1.0"
-  dependencies:
-    "@jonsoku/hooks" "file:../../../Library/Caches/Yarn/v6/npm-@jonsoku-app-0.1.0-67761274-f2a5-4229-a632-a67b7b19eb84-1647999119584/node_modules/@jonsoku/hooks"
-    next "12.1.0"
-    react "17.0.2"
-    react-dom "17.0.2"
-
-"@jonsoku/hooks@file:packages/hooks":
-  version "1.0.0"
-  dependencies:
-    react "17.0.2"
-    react-dom "17.0.2"
-    react-scripts "^5.0.0"
-
 "@jridgewell/resolve-uri@^3.0.3":
   version "3.0.5"
   resolved "https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.0.5.tgz"

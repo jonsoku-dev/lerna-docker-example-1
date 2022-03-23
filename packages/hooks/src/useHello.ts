@@ -1,3 +1,3 @@
 export default function useHello() {
-  return 'hello(2.0.2)'
+  return 'hello(2.0.6)'
 }
