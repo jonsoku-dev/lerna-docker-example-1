@@ -14,7 +14,7 @@
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "dev": "microbundle-crl watch --no-compress --format modern,cjs",
-    "prepare": "run-s build",
+    "prepare222": "run-s build",
     "test": "run-s test:unit test:lint test:build",
     "test:build": "run-s build",
     "test:lint": "eslint .",
@@ -30,5 +30,6 @@
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-scripts": "^5.0.0"
-  }
+  },
+  "gitHead": "8a3802ce38e519a41668f120bf5adc7a41bfd418"
 }
