@@ -3,7 +3,6 @@
   "version": "1.1.4",
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmjs.com"
   },
   "scripts": {
     "dev": "next dev",
@@ -17,5 +16,5 @@
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
-  "gitHead": "9790ac1693dc8dd16a99910a2b6cc345f75c23dc"
+  "gitHead": "ec0b0bb442e5106941161496f43b8ef7db7a2af8"
 }
