@@ -1,0 +1,6 @@
+31 error Error: Command failed with exit code 128: git add -- packages/hooks/package.json packages/my-app/package.json lerna.json
+31 error fatal: Pathspec 'packages/hooks/package.json' is in submodule 'packages/hooks'
+31 error     at makeError (/Users/jp26710/Documents/GitHub/lerna-docker-example-1/node_modules/execa/lib/error.js:60:11)
+31 error     at handlePromise (/Users/jp26710/Documents/GitHub/lerna-docker-example-1/node_modules/execa/index.js:118:26)
+31 error     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+31 error     at async Promise.all (index 0)
