@@ -1,6 +1,6 @@
 {
   "name": "@jonsoku/hooks",
-  "version": "1.1.28",
+  "version": "2.0.0",
   "description": "Made with create-react-library",
   "author": "",
   "license": "MIT",
@@ -14,7 +14,8 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
-  },   "scripts": {
+  },
+  "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "dev": "microbundle-crl watch --no-compress --format modern,cjs",
     "prepare222": "run-s build",
