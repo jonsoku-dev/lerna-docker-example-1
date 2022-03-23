@@ -13,7 +13,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.com"
   },
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
@@ -35,5 +35,5 @@
     "react-dom": "17.0.2",
     "react-scripts": "^5.0.0"
   },
-  "gitHead": "2e30c964cfc15e0c805d4329298c0b489698de4b"
+  "gitHead": "9790ac1693dc8dd16a99910a2b6cc345f75c23dc"
 }
