@@ -12,7 +12,7 @@
     "node": ">=10"
   },
   "publishConfig": {
-    "access": "public",
+    "access": "public"
   },
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
