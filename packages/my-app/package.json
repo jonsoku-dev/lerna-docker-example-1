@@ -1,6 +1,6 @@
 {
   "name": "@jonsoku/app",
-  "version": "1.1.14",
+  "version": "1.1.15",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
@@ -12,10 +12,10 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@jonsoku/hooks": "^1.1.14",
+    "@jonsoku/hooks": "^1.1.15",
     "next": "12.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
-  "gitHead": "ef30c3c28bf03878a6fa95f63092a940099419c4"
+  "gitHead": "0fb6f0ba4cb94dad0576493138c321aadebc026f"
 }
