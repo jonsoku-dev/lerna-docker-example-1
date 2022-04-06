@@ -1,0 +1,28 @@
+{
+  "name": "@jonsoku/sample",
+  "version": "2.0.4",
+  "description": "> TODO: description",
+  "author": "jongseok-lee <jongseok.lee@linecorp.com>",
+  "homepage": "https://github.com/jonsoku2/lerna-docker-example-1#readme",
+  "license": "ISC",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonsoku2/lerna-docker-example-1.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "tsc",
+    "dev2": "nodemon --exec ts-node src/index.ts",
+    "dev3": "tsc -w"
+  },
+  "bugs": {
+    "url": "https://github.com/jonsoku2/lerna-docker-example-1/issues"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.7.0",
+    "tsc-watch": "^4.6.2"
+  }
+}
