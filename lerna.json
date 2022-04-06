@@ -4,7 +4,7 @@
   ],
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "independent": true,
   "stream": true,
-  "parallel": true
+  "parallel": true,
+  "version": "independent"
 }
