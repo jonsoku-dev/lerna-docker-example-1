@@ -1,6 +1,6 @@
 {
   "name": "@jonsoku/app",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "repository": "https://github.com/jonsoku2/lerna-docker-example-1",
   "private": true,
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@jonsoku/hooks": "^2.0.4",
-    "@jonsoku/sample": "^2.0.4",
+    "@jonsoku/sample": "^2.0.5",
     "next": "12.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
