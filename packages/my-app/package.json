@@ -1,6 +1,6 @@
 {
   "name": "@jonsoku/app",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "repository": "https://github.com/jonsoku2/lerna-docker-example-1",
   "private": true,
   "scripts": {
